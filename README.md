@@ -4,6 +4,8 @@
 
 ![Deploy to Pages](https://github.com/solarith0/chunkops.com/actions/workflows/pages.yaml/badge.svg)
 
+Website for ChunkOps. Built using [Hugo](https://gohugo.io/).
+
 ## Local development
 
 ### Requirements
