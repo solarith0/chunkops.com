@@ -1,5 +1,7 @@
 # chunkops.com
 
+![Deploy to Pages](https://github.com/solarith0/chunkops.com/actions/workflows/pages.yaml/badge.svg)
+
 ## Local development
 
 ### Requirements
