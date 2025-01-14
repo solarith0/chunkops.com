@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Welcome to ChunkOps
 toc: false
 ---
 
-This is the landing page.
+Under construction!
 
 ## Explore
 
