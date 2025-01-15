@@ -47,6 +47,10 @@ See [Update modules](https://gohugo.io/hugo-modules/use-modules/#update-modules)
 
 ## Acknowledgments
 
-This project uses the [Hextra](https://github.com/imfing/hextra) theme, licensed under the [MIT license](https://opensource.org/licenses/MIT), and was created using the [Hextra Starter Template](https://github.com/imfing/hextra-starter-template).
+This project uses the [Hextra](https://github.com/imfing/hextra) theme and was created using the [Hextra Starter Template](https://github.com/imfing/hextra-starter-template), both licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 Built with [Hugo](https://gohugo.io/), an open-source static site generator licensed under the [Apache 2.0 license](https://opensource.org/license/apache-2-0).
+
+[Mineatar](https://github.com/mineatar-io), an API for Minecraft skins, licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+[Minecraft Wiki](https://minecraft.wiki/) for images of blocks and items.
