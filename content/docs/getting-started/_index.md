@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Getting started
 type: docs
 prev: docs
 next: docs/getting-started/install
