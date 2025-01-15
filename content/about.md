@@ -13,7 +13,7 @@ toc: false
 
 <img src="https://api.mineatar.io/face/e4166ba1059a487f914f094a7a417af5?scale=32" alt="solarith0" style="margin: 0; margin-top: 10px; border-radius: 0; width: 100px;"/>
 
-- Will invite you to a note block rave. Favorite language is C.
+- Will invite you to a note block rave. Mid programmer.
 - Minecraft player since: 2012
 - Favorite block: <img src="https://minecraft.wiki/images/Note_Block_JE2_BE2.png?0bf0f" alt="Note Block" width="48" style="display: inline; vertical-align: middle; margin: 0; border-radius: 0" />
 

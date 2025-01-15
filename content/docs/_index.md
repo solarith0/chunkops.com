@@ -1,18 +1,6 @@
 ---
 title: Documentation
-next: first-page
+next: docs/getting-started
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+This documentation provides an overview of the ChunkOps server, including detailed guides for various mods.
